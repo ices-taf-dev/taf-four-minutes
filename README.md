@@ -6,7 +6,7 @@ A key distinction between the packages is that in `TAF` the user organizes their
 
 ## taf-four-minutes
 
-This [`taf-four-minutes`](https://github.com/ices-taf-dev/taf-four-minutes) analysis is a simple workflow organized and run using the `TAF` package. It is similar to the [`targets-four-minutes`](https://github.com/wlandau/targets-four-minutes) demonstration of how pipelines are organized and run using the `targets` package. This facilitates comparing the functionality of the two packages.
+This [taf-four-minutes](https://github.com/ices-taf-dev/taf-four-minutes) analysis is a simple workflow organized and run using the `TAF` package. It is similar to the [targets-four-minutes](https://github.com/wlandau/targets-four-minutes) demonstration of how pipelines are organized and run using the `targets` package. This facilitates comparing the functionality of the two packages.
 
 ## How to run
 
