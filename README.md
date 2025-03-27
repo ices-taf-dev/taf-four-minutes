@@ -28,7 +28,7 @@ source.all()
 
 After running the workflow, the following files can be browsed and reviewed:
 
-File                 | Purpose
+File                 | Content
 -------------------- | ---------------------------------
 `boot/DATA.bib`      | data description
 `boot/data/data.csv` | original data (n=153)
